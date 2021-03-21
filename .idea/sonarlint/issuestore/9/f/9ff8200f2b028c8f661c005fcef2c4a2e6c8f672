@@ -1,0 +1,11 @@
+
+J
+java:S3740="/Provide the parametrized type for this generic.(ëò‹œıÿÿÿÿ
+c
+java:S2259k"NA "NullPointerException" could be thrown; "originalFilename" is nullable here.(ÖÓÉ3
+s
+java:S1488m"]Immediately return this expression instead of assigning it to the temporary variable "file1".(¨ÿÜò
+z	java:S116"eRename this field "connect_timeout_in_seconds" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÓíŸ
+z	java:S116"eRename this field "network_timeout_in_seconds" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Àí
+o	java:S116 "ZRename this field "tracker_servers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì´¸
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ô¹Æ

@@ -1,0 +1,46 @@
+
+w
+java:S1128"URemove this unused import 'com.xuecheng.framework.domain.course.response.CourseCode'.(äÀ†ùÿÿÿÿ8»ÆØ²‚/
+^
+java:S3986"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(¾³õ,
+y	java:S116J"_Rename this field "publish_page_webpath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ–Óìıÿÿÿÿ
+k
+java:S3252Í"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(‹‹¥®úÿÿÿÿ
+€
+java:S1488U"eImmediately return this expression instead of assigning it to the temporary variable "teachplanNode".(õ—şÿÿÿÿ
+x
+java:S1488®"aImmediately return this expression instead of assigning it to the temporary variable "coursePic".(ìœ‹
+r	java:S116N"]Rename this field "publish_templateId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‡—â
+b
+java:S2259c"GA "NullPointerException" could be thrown; "teachplan" is nullable here.(³Óµ‘øÿÿÿÿ
+~
+java:S1488ß"bImmediately return this expression instead of assigning it to the temporary variable "courseBase".(’¥îÒøÿÿÿÿ
+x
+java:S1488Ú"\Immediately return this expression instead of assigning it to the temporary variable "save".(©¯İÉıÿÿÿÿ
+F
+java:S3740Ö"/Provide the parametrized type for this generic.(àÓŞû
+T
+java:S1155Š">Use isEmpty() to check whether the collection is empty or not.(£î¢(
+L
+java:S3655p"7Call "optional.isPresent()" before accessing the value.(„ƒ“J
+`
+java:S2583Ä"DChange this condition so that it does not always evaluate to "false"(Í†Òùÿÿÿÿ
+Q	java:S125„"<This block of commented-out lines of code should be removed.(ì‘‰]
+c
+java:S2259›"LA "NullPointerException" could be thrown; "teachplanMedia" is nullable here.(Æ¹Ì°
+S
+java:S3655ß"7Call "optional.isPresent()" before accessing the value.(’¥îÒøÿÿÿÿ
+s	java:S116L"YRename this field "publish_siteId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŞŠşÿÿÿÿ
+F
+java:S3740Ù"/Provide the parametrized type for this generic.(ã’ò
+~	java:S116H"dRename this field "publish_page_physicalpath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ş¬¹üÿÿÿÿ
+N
+java:S2589è"7Remove this expression which always evaluates to "true"(ïœ°­
+F
+java:S3740Ö"/Provide the parametrized type for this generic.(àÓŞû
+r	java:S116F"]Rename this field "publish_dataUrlPre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¸¢¾
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú³ü«
+F
+java:S3740À"/Provide the parametrized type for this generic.(Ùáü
+N
+java:S3655¢"7Call "optional.isPresent()" before accessing the value.(Ø‡ÜÉ
