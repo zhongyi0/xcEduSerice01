@@ -11,8 +11,6 @@ Xxc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsConfigReposi
 Vxc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java,f\7\f7827286a146bbd6509b650336425655b4be3cc3
 Ü
 Vxc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsSiteRepository.java,c\6\c6fab871609a417d0e0ef509f62cff3fb2aef259
-â
-Yxc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CategoryMapper.java,b\d\bd033e3df59d3dd49c2fa03f64015256d5534fc2
 è
 _xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/service/FileSystemService.java,9\f\9ff8200f2b028c8f661c005fcef2c4a2e6c8f672
 á
@@ -79,21 +77,11 @@ bxc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/servi
 Sxc-framework-model/src/main/java/com/xuecheng/framework/domain/course/Category.java,d\e\de619096d1809ff63f3de67ec95af757210ca91d
 è
 _test-freemarker/src/main/java/com/xuecheng/test/freemarker/controller/FreemarkerController.java,9\b\9b0417acf55960d728ea73cc372a10007683bec9
-å
-\xc-service-manage-course/src/main/java/com/xuecheng/manage_course/Service/CourseService.java,4\9\49e773e695abb40a50f371ae04d705b85ede14b6
 ~
 Nxc-service-search/src/main/java/com/xuecheng/search/Controller/Controller.java,e\4\e4f2601b8ecf67d06fe562577c3e9770f2a2b638
 Ç
 Rxc-framework-common/src/main/java/com/xuecheng/framework/client/XcServiceList.java,3\3\33b0a699d90a375d5aac1bda0af7097da65e3c3b
-á
-Wxc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CourseMapper.java,e\f\ef3dfcd3d97ffa842826723f0bd1df3741b35fef
 Ü
 Vxc-service-learning/src/main/java/com/xuecheng/learning/client/CourseSearchClient.java,6\1\6169fa194abc5255615973a267dc9ce40b6d3dd2
-é
-^xc-service-manage-course/src/main/java/com/xuecheng/manage_course/ManageCourseApplication.java,4\d\4d3b3961c2c7ebc101bb44f536ea53436d42b1a0
-é
-^xc-service-manage-course/src/main/java/com/xuecheng/manage_course/Service/CategoryService.java,e\1\e1448050938f65d2c4d948d37733b269518b7584
-u
-Etest-fastdfs/src/main/java/com/xuecheng/test/fastdfs/Application.java,e\b\eb424ba96dceecb1487daf933d416d45f4e6b16f
 N
 xc-framework-common/.gitignore,1\2\12dc3c188e023b91218b3bea21a775e5f5eae8d9

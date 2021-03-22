@@ -34,7 +34,7 @@ public class FreemarkerController {
     public String freemarker(Map<String,Object>map){
         map.put("name", "黑马程序员");
         //返回模板文件名称
-        return "test1";
+        return "test1";111
     }*/
     @RequestMapping("/test1")
     public String freemarker(Map<String, Object> map) {
