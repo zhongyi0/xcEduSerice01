@@ -65,13 +65,13 @@ public class FreemarkerController {
         map.put("stu1", stu1);
         //向数据模型放数据
         map.put("stuMap", stuMap);
-        //返回模板文件名称
+        //返回模板文件名称566
         return "test1";
     }
 
     @RequestMapping("/course")
     public String course(Map<String,Object>map){
-        //11111
+        //11111  566
         ResponseEntity<Map> forEntity
                 = restTemplate.getForEntity("http://localhost:31200/course/courseview/297e7c7c62b888f00162b8a965510001", Map.class);
         Map body = forEntity.getBody();
