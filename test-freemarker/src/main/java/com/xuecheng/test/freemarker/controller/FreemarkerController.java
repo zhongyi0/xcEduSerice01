@@ -71,6 +71,7 @@ public class FreemarkerController {
 
     @RequestMapping("/course")
     public String course(Map<String,Object>map){
+        //11111
         ResponseEntity<Map> forEntity
                 = restTemplate.getForEntity("http://localhost:31200/course/courseview/297e7c7c62b888f00162b8a965510001", Map.class);
         Map body = forEntity.getBody();
