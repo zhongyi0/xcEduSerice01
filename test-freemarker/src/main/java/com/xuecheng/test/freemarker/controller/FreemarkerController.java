@@ -65,7 +65,7 @@ public class FreemarkerController {
         map.put("stu1", stu1);
         //向数据模型放数据
         map.put("stuMap", stuMap);
-        //返回模板文件名称566            999999    2021
+        //返回模板文件名称 check 当前
         return "test1";
     }
 
